@@ -16,10 +16,11 @@
 
     {{--Global Vars--}}
 
-    {{--Javascript FIles--}}
+    {{--Javascript Files--}}
     <script type="text/javascript" src="{{ asset('back-end/js/jquery-3.4.1.min.js') }}"></script>
     <script type="text/javascript" src="{{ asset('back-end/js/popper.min.js') }}"></script>
     <script type="text/javascript" src="{{ asset('back-end/js/bootstrap.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('back-end/js/bootstrap.js') }}"></script>
     <script type="text/javascript" src="{{ asset('back-end/js/theme.js') }}"></script>
     <script type="text/javascript" src="{{ asset('back-end/js/plugins/slimscroll/jquery.slimscroll.min.js') }}"></script>
     <script type="text/javascript" src="{{ asset('back-end/js/plugins/metisMenu/jquery.metisMenu.js') }}" ></script>
